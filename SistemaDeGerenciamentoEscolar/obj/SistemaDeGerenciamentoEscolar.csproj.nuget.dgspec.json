@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\autologon\\Documents\\ow\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {}
+    "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\autologon\\Documents\\ow\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {
+    "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\autologon\\Documents\\ow\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
+        "projectUniqueName": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
         "projectName": "SistemaDeGerenciamentoEscolar",
-        "projectPath": "C:\\Users\\autologon\\Documents\\ow\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
-        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\autologon\\Documents\\ow\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\obj\\",
+        "projectPath": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
+        "packagesPath": "C:\\Users\\autologon.CSED\\.nuget\\packages\\",
+        "outputPath": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\autologon.CSED\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
