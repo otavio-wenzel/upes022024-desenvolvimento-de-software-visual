@@ -1,22 +1,23 @@
 using Microsoft.EntityFrameworkCore;
 
-public class BancoDeDados : DbContext {
+var builder = WebApplication.CreateBuilder(args);
 
+//Configurações Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-    protected override void OnConfiguring(
-        DbContextOptionsBuilder builder)
-    {
-        string credencial = "server=localhost;port=3306;database=planner;user=root;password=positivo";
+builder.Services.AddDbContext<BancoDeDados>();
 
-        builder.UseMySQL(credencial);
-        //registros da solictação da api
-        //.LogTo(Console.WriteLine, LogLevel.Information);
-        
-    }
+var app = builder.Build();
 
-    public DbSet<Aluno> Alunos => Set<Aluno>();
-    public DbSet<Professor> Professores => Set<Professor>();
-    public DbSet<Disciplina> Disciplinas => Set<Disciplina>();
-    public DbSet<Turma> Turmas => Set<Turma>();
+//Configurações Swagger
+app.UseSwagger();
+app.UseSwaggerUI();
 
-}
+app.MapGet("/", () => "Sistema de Gerenciamento Escolar");
+app.MapAlunoApi();
+app.MapDisciplinaApi();
+app.MapProfessorApi();
+app.MapTurmaApi();
+
+app.Run();

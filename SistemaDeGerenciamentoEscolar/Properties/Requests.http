@@ -1,0 +1,28 @@
+### GET /alunos
+GET http://localhost:5224/alunos
+
+### GET /alunos/{id}
+GET http://localhost:5224/alunos/1
+
+### POST /alunos
+POST http://localhost:5224/alunos
+Content-Type: application/json
+
+{
+  "nome": "Eduardo costa",
+  "matricula": "123",
+  "idade": 14
+}
+
+
+### PUT /alunos
+PUT http://localhost:5224/alunos/5
+Content-Type: application/json
+
+{
+  "descricao": "sdfasfasdfsdfsdfsd",
+  "concluida": false
+}
+
+### DELETE /aluno/{id}
+DELETE http://localhost:5224/alunos/2
