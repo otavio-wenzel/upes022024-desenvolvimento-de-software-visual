@@ -1,0 +1,6 @@
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.AssemblyInfo.cs
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\ow\Nova pasta\upes022024-desenvolvimento-de-software-visual\SistemaDeGerenciamentoEscolar\obj\Debug\net7.0\SistemaDeGerenciamentoEscolar.MvcApplicationPartsAssemblyInfo.cache

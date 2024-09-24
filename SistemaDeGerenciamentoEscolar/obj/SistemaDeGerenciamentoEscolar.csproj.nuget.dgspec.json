@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {}
+    "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {}
   },
   "projects": {
-    "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {
+    "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
+        "projectUniqueName": "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
         "projectName": "SistemaDeGerenciamentoEscolar",
-        "projectPath": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
-        "packagesPath": "C:\\Users\\autologon.CSED\\.nuget\\packages\\",
-        "outputPath": "C:\\_TBgit\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\obj\\",
+        "projectPath": "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
+        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\autologon.CSED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,6 +44,22 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
