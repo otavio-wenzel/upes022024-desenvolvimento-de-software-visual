@@ -1,5 +1,5 @@
 public class Disciplina{
-    public int ID {get;set;}
+    public int Id {get;set;}
     public string? Materia {get;set;}
     
 

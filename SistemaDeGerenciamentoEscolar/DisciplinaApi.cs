@@ -10,7 +10,7 @@ public static class DisciplinaApi
     await db.Disciplinas.ToListAsync());
 
     tabela.MapGet("/disciplinas/{id}", async (int id, BancoDeDados db) => 
-        await db.Dsciplinasos.FindAsync(id)
+        await db.Disciplinas.FindAsync(id)
         is Disciplina disciplina
             ? Results.Ok(disciplina)
             : Results.NotFound());
@@ -35,7 +35,7 @@ public static class DisciplinaApi
 
     tabela.MapDelete("disciplinass/{id}", async (int id, BancoDeDados db) =>
     {
-        if(await db.Disciplinass.FindAsync(id) is Disciplina disciplina){
+        if(await db.Disciplinas.FindAsync(id) is Disciplina disciplina){
 
             db.Disciplinas.Remove(disciplina);
             await db.SaveChangesAsync();

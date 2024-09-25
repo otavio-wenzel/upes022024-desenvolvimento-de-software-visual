@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y3xvXVRlgVX11tAgIXt/+UqiIvFYrArrSh5bgMrDBinf57N6h+YCpc0EiiDs91cloD5rIhWj+5yGUGWOOq08WA==",
+  "dgSpecHash": "+ltZ1NqPmaI8otKuS4cOr6SRR4ew1wY8WUipYNa8wDnyLDNmeTnB0y40E8+msbbYwlQ6JNH9GEWkYG23Jsz1TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\autologon\\Documents\\ow\\Nova pasta\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
+  "projectFilePath": "C:\\Users\\autologon\\Documents\\ow\\Nova pasta (4)\\upes022024-desenvolvimento-de-software-visual\\SistemaDeGerenciamentoEscolar\\SistemaDeGerenciamentoEscolar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\autologon\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
